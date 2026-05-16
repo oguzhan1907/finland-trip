@@ -13,15 +13,13 @@ tags:
 
 Source notes live here.
 
-## Dashboard
-
-- [[Sources/Dashboard]]
 
 ## Active Sources
 
 - [[Sources/Discover 5 Extraordinary Road Trips in Finland]] — first route-family source for Lapland, Lakeland, Lake Tuusula, South Coast design/ironworks, and West Coast route ideas.
 - [[Sources/Everyman's Rights - Paddling]] — official Luontoon / Metsähallitus source for public-access rights, temporary camping limits, fire exclusions, dog rules, fishing caveats, and protected-area restrictions.
 - [[Sources/Huts - Hiking Tips]] — official Luontoon / Metsähallitus source for open wilderness huts, shared rental huts, rental huts, day-use huts, and rental campfire huts.
+- [[Sources/Packrafting - Luontoon]] — official Luontoon / Metsähallitus source for packrafting as a hiking-plus-paddling activity, emphasizing sheltered waters, near-shore paddling, dry/secured gear, wind limits, and destination access restrictions.
 - [[Sources/Solstice Festival Official Details]] — official festival website and linked ticketing source for the Ruka/Kuusamo festival anchor, travel, accommodation, parking, local movement, camping, food/water, and gear rules.
 - [[Sources/The Archipelago Trail]] — first ferry-linked route source for a 250 km Turku archipelago route and 120 km smaller variant.
 
@@ -38,7 +36,6 @@ Source notes live here.
 - `raw/Kota tents and sauna tents - Hiking tips.md` — candidate Luontoon source for outdoor shelter types.
 - `raw/Lonely_Planet_Finland_10th_Edition_-_Barbara_Woolsey.md` and preserved EPUB — candidate guidebook source for route ideas, regions, activities, lodging context, and practical logistics.
 - `raw/Lonely_Planet_Finland_11th_Edition_-_Paula_Hotti.md` and preserved EPUB — candidate newer guidebook source for route ideas, regions, activities, lodging context, and practical logistics.
-- `raw/Packrafting - Luontoon.md` — candidate Luontoon source for paddling and water-route activity context.
 - `raw/Plan your visit - Hiking tips.md` — candidate Luontoon source for practical hiking preparation.
 - `raw/Safety - Hiking tips.md` — candidate Luontoon source for outdoor safety, weather, emergency, and fire precautions.
 - `raw/Whitewater paddling.md` — candidate Luontoon source for higher-risk paddling activity context.

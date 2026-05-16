@@ -13,9 +13,6 @@ tags:
 
 Filed query pages preserve reusable answers, comparisons, decisions, and analyses that should not disappear into chat history.
 
-## Dashboard
-
-- [[Queries/Dashboard]]
 
 ## Filed Queries
 

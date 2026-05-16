@@ -13,4 +13,4 @@ tags:
 
 The detailed maintenance log is intentionally omitted from the public site. Use [[Home]] and [[Trip Overview]] for the current planning state.
 
-Return to [[Logistics/_Index]] or [[Home]].
+Return to [[Logistics/_Index|Logistics]] or [[Home]].

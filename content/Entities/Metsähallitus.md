@@ -2,10 +2,11 @@
 title: Metsähallitus
 type: entity
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources:
   - "Sources/Everyman's Rights - Paddling.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "Sources/Packrafting - Luontoon.md"
 tags:
   - entity
   - organization
@@ -19,22 +20,25 @@ Metsähallitus is named as the author/provider of the Luontoon / Nationalparks o
 
 ## Relationships
 
-- Source notes: [[Sources/Everyman's Rights - Paddling]], [[Sources/Huts - Hiking Tips]]
+- Source notes: [[Sources/Everyman's Rights - Paddling]], [[Sources/Huts - Hiking Tips]], [[Sources/Packrafting - Luontoon]]
 - Country entity: [[Entities/Finland]]
 - Public-access concept: [[Concepts/Everyman's Rights In Finland]]
 - Outdoor accommodation concept: [[Concepts/Outdoor Accommodation In Finland]]
+- Paddling concept: [[Concepts/Packrafting And Paddling In Finland]]
 - Operational pages: [[Country/Culture And Practicalities]], [[Country/Natural History]], [[Logistics/Roadtrip Operations]], [[Lodging/Lodging Strategy]]
 
 ## Related Concepts
 
 - [[Concepts/Everyman's Rights In Finland]]
 - [[Concepts/Outdoor Accommodation In Finland]]
+- [[Concepts/Packrafting And Paddling In Finland]]
 - [[Concepts/Contingency Planning]]
 
 ## Sources
 
 - [[Sources/Everyman's Rights - Paddling]]
 - [[Sources/Huts - Hiking Tips]]
+- [[Sources/Packrafting - Luontoon]]
 
 ## Open Questions
 

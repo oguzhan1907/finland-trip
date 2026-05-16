@@ -5,6 +5,7 @@ created: 2026-05-15
 updated: 2026-05-16
 sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
+  - "Sources/Packrafting - Luontoon.md"
   - "Sources/The Archipelago Trail.md"
   - "Sources/Solstice Festival Official Details.md"
 tags:
@@ -36,24 +37,26 @@ The 2026-05-16 planning update narrows the shape: the roadtrip starts and ends i
 - Savo-Karelia / Saimaa offers the strongest major inland nature-and-culture route and currently looks like the best pre-festival research direction, but the source's 7-day shape may still need pruning.
 - North Lapland offers the strongest northern identity theme, but anything beyond Ruka/Kuusamo could make the roadtrip less flexible.
 - South Coast, Lake Tuusula, and West Coast modules may work well as add-ons or alternate route families depending on the final Helsinki loop.
-- Lake kayaking and remote island stays are now a user-interest route theme, but need source work before they can compete with the existing route families.
+- Lake kayaking, packrafting, and remote island stays are now a user-interest route theme, but need region-specific source work before they can compete with the existing route families.
 
 ## Related Concepts
 
 - [[Concepts/Travel Pace]]
 - [[Concepts/Contingency Planning]]
+- [[Concepts/Packrafting And Paddling In Finland]]
 
 ## Related Pages
 
 - [[Logistics/Route Planning]]
-- [[Routes/_Index]]
-- [[Ferries/_Index]]
-- [[Lodging/_Index]]
+- [[Routes/_Index|Routes]]
+- [[Ferries/_Index|Ferries]]
+- [[Lodging/_Index|Lodging]]
 - [[Queries/Helsinki Ruka Route Comparison]]
 
 ## Sources
 
 - [[Sources/Discover 5 Extraordinary Road Trips in Finland]]
+- [[Sources/Packrafting - Luontoon]]
 - [[Sources/The Archipelago Trail]]
 - [[Sources/Solstice Festival Official Details]]
 
@@ -62,4 +65,4 @@ The 2026-05-16 planning update narrows the shape: the roadtrip starts and ends i
 - Which Helsinki-loop route best fits the festival anchor and car return date?
 - How far north beyond Ruka, if anywhere, is worth the pace cost?
 - Which stops are non-negotiable?
-- Should the next decision compare Saimaa/Lakeland, Archipelago Trail, West Coast, or lake/island kayaking as the first major non-Helsinki anchor?
+- Should the next decision compare Saimaa/Lakeland, Archipelago Trail, West Coast, or sheltered lake/river paddling as the first major non-Helsinki anchor?

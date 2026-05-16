@@ -5,6 +5,7 @@ created: 2026-05-15
 updated: 2026-05-16
 sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
+  - "Sources/Packrafting - Luontoon.md"
   - "Sources/Solstice Festival Official Details.md"
   - "Sources/The Archipelago Trail.md"
 tags:
@@ -15,7 +16,7 @@ tags:
 
 # Route Planning
 
-This page now acts as the practical logistics bridge to route research. Detailed route ideas live in [[Routes/_Index]].
+This page now acts as the practical logistics bridge to route research. Detailed route ideas live in [[Routes/_Index|Routes]].
 
 ## Route Shape
 
@@ -63,7 +64,7 @@ This page now acts as the practical logistics bridge to route research. Detailed
 - Parking/access details for the actual Ruka accommodation.
 - Rental-car provider, terms, insurance, and vehicle dimensions if ferries are used.
 - Current map/driving-time checks for the eastern/Saimaa approach to [[Entities/Ruka]] and the central/direct return.
-- Current lake kayaking and remote island accommodation options.
+- Current lake kayaking, packrafting, sheltered-water, and remote island accommodation options.
 - Current road and border guidance.
 - Maps or route exports.
 - Opening dates and hours for planned activities.
@@ -71,7 +72,7 @@ This page now acts as the practical logistics bridge to route research. Detailed
 
 ## Links
 
-- [[Routes/_Index]]
-- [[Ferries/_Index]]
+- [[Routes/_Index|Routes]]
+- [[Ferries/_Index|Ferries]]
 - [[Concepts/Roadtrip Route Design]]
 - [[Concepts/Travel Pace]]

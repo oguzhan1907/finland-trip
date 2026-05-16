@@ -13,9 +13,6 @@ tags:
 
 Entity pages track important places, people, vehicle details, institutions, companies, routes, and organizations.
 
-## Dashboard
-
-- [[Entities/Dashboard]]
 
 ## Active Entities
 

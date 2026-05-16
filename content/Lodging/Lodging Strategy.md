@@ -7,6 +7,7 @@ sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
   - "Sources/Everyman's Rights - Paddling.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "Sources/Packrafting - Luontoon.md"
   - "Sources/Solstice Festival Official Details.md"
   - "Sources/The Archipelago Trail.md"
 tags:
@@ -44,7 +45,7 @@ This page is for deciding how spontaneous the lodging plan can be.
 - Temporary camping under [[Concepts/Everyman's Rights In Finland]] may add flexibility in ordinary access areas, but it is not a substitute for checking protected-area rules. In national parks, camping is only permitted at designated sites according to [[Sources/Everyman's Rights - Paddling]].
 - Hut infrastructure under [[Concepts/Outdoor Accommodation In Finland]] can support hiking-oriented nights and rest stops, but open wilderness huts are not guaranteed lodging and paid huts need current booking/key checks.
 - [[Entities/Solstice Festival]] house booking: fixed [[Entities/Ruka]] anchor from 2026-06-17 through either 2026-06-21 or 2026-06-22. Confirm exact house location, parking, check-in, checkout date, and recovery/logistics needs before booking the next night.
-- Lake kayaking and remote island stays: potentially strong fit for the trip style, but they need provider, access, safety, weather, ferry/boat-transfer, and lodging checks.
+- Lake kayaking, packrafting, and remote island stays: potentially strong fit for the trip style, but they need provider, access, safety, weather, gear-load, ferry/boat-transfer, and lodging checks.
 
 ## Booking Interpretation
 
@@ -61,4 +62,5 @@ Open wilderness huts reduce pressure differently: they may provide free, unlocke
 - [[Logistics/Booking Tracker]]
 - [[Sources/Everyman's Rights - Paddling]]
 - [[Sources/Huts - Hiking Tips]]
+- [[Sources/Packrafting - Luontoon]]
 - [[Sources/Solstice Festival Official Details]]

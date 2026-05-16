@@ -44,9 +44,9 @@ The first official outdoor-rules source adds a practical country-level frame: [[
 - [[Country/History]]
 - [[Country/Natural History]]
 - [[Country/Culture And Practicalities]]
-- [[Routes/_Index]]
-- [[Ferries/_Index]]
-- [[Lodging/_Index]]
+- [[Routes/_Index|Routes]]
+- [[Ferries/_Index|Ferries]]
+- [[Lodging/_Index|Lodging]]
 
 ## Sources
 

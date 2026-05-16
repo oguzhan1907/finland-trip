@@ -5,6 +5,7 @@ created: 2026-05-15
 updated: 2026-05-16
 sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
+  - "Sources/Packrafting - Luontoon.md"
   - "Sources/The Archipelago Trail.md"
   - "Sources/Solstice Festival Official Details.md"
 tags:
@@ -31,6 +32,7 @@ The current planning frame removes international vehicle-entry time but adds a f
 - North Lapland should be evaluated as a strategic priority, not as an easy add-on.
 - Compact southern modules can protect spontaneity if the trip needs more buffer.
 - Outdoor accommodation and kayaking days need extra slack for gear, weather, access rules, drying time, and recovery.
+- Packrafting days need extra slack for inflating/deflating, carrying gear, drying gear, and changing plans if wind makes open water a bad choice.
 - The first post-festival day should stay simple until the exact house checkout date and fatigue risk are known.
 
 ## Related Concepts
@@ -40,12 +42,13 @@ The current planning frame removes international vehicle-entry time but adds a f
 
 ## Related Pages
 
-- [[Routes/_Index]]
+- [[Routes/_Index|Routes]]
 - [[Logistics/Route Planning]]
 
 ## Sources
 
 - [[Sources/Discover 5 Extraordinary Road Trips in Finland]]
+- [[Sources/Packrafting - Luontoon]]
 - [[Sources/The Archipelago Trail]]
 - [[Sources/Solstice Festival Official Details]]
 
@@ -55,3 +58,4 @@ The current planning frame removes international vehicle-entry time but adds a f
 - How many rest or low-driving days should be protected?
 - How many flexible days should be protected before and after [[Entities/Solstice Festival]]?
 - Is the [[Entities/Ruka]] house checkout on 2026-06-21 or 2026-06-22?
+- Is paddling meant to be a casual short outing, a full-day activity, or an overnight route segment?

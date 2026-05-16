@@ -13,9 +13,6 @@ tags:
 
 This index collects practical planning material for the Finland roadtrip. Research-heavy route, ferry, lodging, and country context lives in the dedicated sections.
 
-## Dashboard
-
-- [[Logistics/Dashboard]]
 
 ## Active Logistics Pages
 
@@ -35,8 +32,8 @@ This index collects practical planning material for the Finland roadtrip. Resear
 
 ## Related Research Sections
 
-- [[Routes/_Index]]
-- [[Ferries/_Index]]
-- [[Lodging/_Index]]
-- [[Country/_Index]]
+- [[Routes/_Index|Routes]]
+- [[Ferries/_Index|Ferries]]
+- [[Lodging/_Index|Lodging]]
+- [[Country/_Index|Country]]
 - [[Queries/Helsinki Ruka Route Comparison]]

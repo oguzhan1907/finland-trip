@@ -2,7 +2,7 @@
 title: Concepts
 type: index
 created: 2026-05-11
-updated: 2026-05-15
+updated: 2026-05-16
 sources: []
 tags:
   - index
@@ -13,14 +13,12 @@ tags:
 
 Concept pages synthesize recurring planning ideas, route tradeoffs, bottlenecks, and mechanisms across sources.
 
-## Dashboard
-
-- [[Concepts/Dashboard]]
 
 ## Active Concepts
 
 - [[Concepts/Everyman's Rights In Finland]]
 - [[Concepts/Outdoor Accommodation In Finland]]
+- [[Concepts/Packrafting And Paddling In Finland]]
 - [[Concepts/Roadtrip Route Design]]
 - [[Concepts/Travel Pace]]
 - [[Concepts/Contingency Planning]]
@@ -34,10 +32,12 @@ Concept pages synthesize recurring planning ideas, route tradeoffs, bottlenecks,
 - Spontaneity versus booking constraints.
 - History-informed route selection.
 - Natural history route themes.
-- Route-family comparison.
+- Helsinki-to-Ruka route-family comparison.
 - Car-plus-ferry route pacing.
 - Outdoor access versus protected-area restrictions.
 - Hut and campsite reliability.
+- Festival anchor contingency planning.
+- Specific lake kayaking providers and remote island stays.
 
 ## Workflow
 

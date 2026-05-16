@@ -7,6 +7,7 @@ sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
   - "Sources/Everyman's Rights - Paddling.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "Sources/Packrafting - Luontoon.md"
   - "Sources/Solstice Festival Official Details.md"
   - "Sources/The Archipelago Trail.md"
 tags:
@@ -25,13 +26,15 @@ The first Luontoon source adds a practical public-access layer: [[Concepts/Every
 
 The hut source adds an outdoor accommodation layer: open wilderness huts, paid shared rental huts, rental huts, day-use huts, and rental campfire huts may support nature stops or hiking modules, but they need route-specific access, booking, equipment, and fallback checks before they can be treated as lodging.
 
+The packrafting source adds a water-activity layer: lake and river paddling can fit the trip, but the safest planning frame is sheltered water, near-shore movement, dry/secure gear, wind checks, and destination-specific access rules.
+
 The official Solstice source now fixes [[Entities/Ruka]] / Kuusamo as a mid-trip northern anchor. This makes the roadtrip a Helsinki-to-Ruka-to-Helsinki planning problem, with eastern, western, or more direct staged approaches to compare.
 
 ## Relationships
 
 - Trip overview: [[Trip Overview]]
-- Country research: [[Country/_Index]]
-- Route research: [[Routes/_Index]]
+- Country research: [[Country/_Index|Country]]
+- Route research: [[Routes/_Index|Routes]]
 - Route design: [[Concepts/Roadtrip Route Design]]
 - Route candidate: [[Entities/Archipelago Trail]]
 - Fixed route anchor: [[Entities/Ruka]] / [[Entities/Solstice Festival]]
@@ -39,6 +42,7 @@ The official Solstice source now fixes [[Entities/Ruka]] / Kuusamo as a mid-trip
 - Outdoor authority: [[Entities/Metsähallitus]]
 - Public-access concept: [[Concepts/Everyman's Rights In Finland]]
 - Outdoor accommodation concept: [[Concepts/Outdoor Accommodation In Finland]]
+- Paddling concept: [[Concepts/Packrafting And Paddling In Finland]]
 
 ## Planning Areas
 
@@ -47,7 +51,7 @@ The official Solstice source now fixes [[Entities/Ruka]] / Kuusamo as a mid-trip
 - Road rules:
 - Lodging approach: mixed; Helsinki carless stays, [[Entities/Solstice Festival]] house, cabins, huts, campsites, and flexible lodging are in scope.
 - Hut / outdoor accommodation approach: in scope; camping gear expected from a local friend, but actual use depends on rules, weather, gear, and comfort.
-- Nature and activity stops: first candidates include archipelago/coast, Saimaa/Lakeland, West Coast natural areas, lake kayaking, remote island stays, and Ruka/Kuusamo-area recovery or nature stops. North Lapland beyond Ruka currently seems unrealistic unless it becomes a top priority.
+- Nature and activity stops: first candidates include archipelago/coast, Saimaa/Lakeland, West Coast natural areas, lake kayaking or packrafting, remote island stays, and Ruka/Kuusamo-area recovery or nature stops. North Lapland beyond Ruka currently seems unrealistic unless it becomes a top priority.
 - Outdoor access: use [[Concepts/Everyman's Rights In Finland]] as a flexibility frame, then check destination-specific Luontoon / Nationalparks rules before relying on camping, paddling, fishing, dog access, or protected-area movement.
 - Cities and towns: first route-source candidates include Turku, Naantali, Savonlinna, Lappeenranta, Kuopio, Vaasa, Oulu, and smaller coastal/ironworks towns.
 - Food and resupply:
@@ -57,6 +61,7 @@ The official Solstice source now fixes [[Entities/Ruka]] / Kuusamo as a mid-trip
 - [[Sources/Discover 5 Extraordinary Road Trips in Finland]]
 - [[Sources/Everyman's Rights - Paddling]]
 - [[Sources/Huts - Hiking Tips]]
+- [[Sources/Packrafting - Luontoon]]
 - [[Sources/Solstice Festival Official Details]]
 - [[Sources/The Archipelago Trail]]
 

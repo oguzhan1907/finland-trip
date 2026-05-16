@@ -15,9 +15,6 @@ tags:
 
 This section collects ferry research for moving around coastal or archipelago areas and comparing route dependencies. International ferry entry is no longer a core blocker because the trip now arrives by plane to Helsinki.
 
-## Dashboard
-
-- [[Ferries/Dashboard]]
 
 ## Active Pages
 

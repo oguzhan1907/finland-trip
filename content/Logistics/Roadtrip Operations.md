@@ -6,6 +6,7 @@ updated: 2026-05-16
 sources:
   - "Sources/Everyman's Rights - Paddling.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "Sources/Packrafting - Luontoon.md"
   - "Sources/Solstice Festival Official Details.md"
   - "Sources/The Archipelago Trail.md"
 tags:
@@ -65,4 +66,6 @@ tags:
 - Destination-specific Luontoon / Nationalparks rules before relying on temporary camping, paddling, fishing, dog access, or protected-area movement.
 - Current fire and wildfire-warning rules before planning campfires or stove use outside booked lodging.
 - Hut-specific access, key pickup, equipment, bedding, overnight permission, and fallback lodging before relying on any Metsähallitus hut.
-- Kayaking provider, route, safety, weather, landing, and overnight rules before treating lake or island kayaking as a firm plan.
+- Kayaking or packrafting provider, route, safety, weather, landing, and overnight rules before treating lake or island paddling as a firm plan.
+- Sheltered-water, near-shore, wind, and gear-load checks before using packrafting as more than an opportunistic short activity.
+- Bird-nesting or protected-area restrictions around small lakes, mires, islands, and island shores before relying on landings or shore access.

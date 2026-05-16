@@ -17,9 +17,6 @@ tags:
 
 This section is for route research and route ideas, not a daily itinerary.
 
-## Dashboard
-
-- [[Routes/Dashboard]]
 
 ## Active Pages
 
@@ -47,7 +44,7 @@ This section is for route research and route ideas, not a daily itinerary.
 
 ## Related Pages
 
-- [[Ferries/_Index]]
-- [[Lodging/_Index]]
+- [[Ferries/_Index|Ferries]]
+- [[Lodging/_Index|Lodging]]
 - [[Country/Finland Overview]]
 - [[Logistics/Route Planning]]

@@ -18,14 +18,7 @@ const publishDirs = [
   "Concepts",
   "Entities",
   "Sources",
-]
-
-const publishQueries = [
-  "Queries/_Index.md",
-  "Queries/Current Trip Constraints.md",
-  "Queries/Open Planning Questions.md",
-  "Queries/Decision Log.md",
-  "Queries/Finland Roadtrip Source Shortlist.md",
+  "Queries",
 ]
 
 const publishLogistics = [
@@ -36,25 +29,25 @@ const publishLogistics = [
   "Logistics/Food And Supplies.md",
 ]
 
-const dashboardStubs = [
-  "Dashboard.md",
-  "Country/Dashboard.md",
-  "Routes/Dashboard.md",
-  "Ferries/Dashboard.md",
-  "Lodging/Dashboard.md",
-  "Logistics/Dashboard.md",
-  "Sources/Dashboard.md",
-  "Concepts/Dashboard.md",
-  "Entities/Dashboard.md",
-  "Queries/Dashboard.md",
-]
-
 const privateStubs = [
   "Logs/Change Log.md",
   "Logistics/Booking Tracker.md",
   "Logistics/Documents And Insurance.md",
   "Logistics/Budget.md",
 ]
+
+function displayNameForIndexLink(target) {
+  return path.basename(path.dirname(target))
+}
+
+function sanitizeContent(content) {
+  return content
+    .replace(/\n## Dashboard\n\n- \[\[[^\]]*Dashboard\]\]\n(?=\n## )/g, "\n")
+    .replace(/^- (Review|Check) \[\[[^\]]*Dashboard\]\]\n/gm, "")
+    .replace(/\[\[([^|\]]+\/_Index)\]\]/g, (_, target) => {
+      return `[[${target}|${displayNameForIndexLink(target)}]]`
+    })
+}
 
 async function pathExists(filePath) {
   try {
@@ -75,7 +68,7 @@ async function copyFile(relativePath) {
   }
 
   await mkdir(path.dirname(targetPath), { recursive: true })
-  const content = await readFile(sourcePath, "utf8")
+  const content = sanitizeContent(await readFile(sourcePath, "utf8"))
   await writeFile(targetPath, content)
 }
 
@@ -106,54 +99,15 @@ function frontmatter(title, type = "query") {
 async function writeGeneratedPage(relativePath, title, body, type = "query") {
   const targetPath = path.join(contentRoot, relativePath)
   await mkdir(path.dirname(targetPath), { recursive: true })
-  await writeFile(targetPath, `${frontmatter(title, type)}\n\n# ${title}\n\n${body.trim()}\n`)
-}
-
-async function writeIndex() {
-  await writeGeneratedPage(
-    "index.md",
-    "Finland Roadtrip Wiki",
-    [
-      "A public reading view for the Finland roadtrip planning wiki.",
-      "",
-      "## Start Here",
-      "",
-      "- [[Home]]",
-      "- [[Trip Overview]]",
-      "- [[Routes/_Index|Routes]]",
-      "- [[Lodging/_Index|Lodging]]",
-      "- [[Ferries/_Index|Ferries]]",
-      "- [[Queries/Open Planning Questions]]",
-    ].join("\n"),
-    "home",
+  await writeFile(
+    targetPath,
+    `${frontmatter(title, type)}\n\n# ${title}\n\n${sanitizeContent(body.trim())}\n`,
   )
 }
 
-async function writeDashboardStubs() {
-  for (const relativePath of dashboardStubs) {
-    const title =
-      relativePath === "Dashboard.md"
-        ? "Dashboard"
-        : `${path.dirname(relativePath)} Dashboard`
-
-    await writeGeneratedPage(
-      relativePath,
-      title,
-      [
-        "This dashboard is intentionally omitted from the public Quartz site because it uses Obsidian Dataview queries.",
-        "",
-        "Use the section index pages instead:",
-        "",
-        "- [[Home]]",
-        "- [[Trip Overview]]",
-        "- [[Routes/_Index|Routes]]",
-        "- [[Lodging/_Index|Lodging]]",
-        "- [[Ferries/_Index|Ferries]]",
-        "- [[Queries/Open Planning Questions]]",
-      ].join("\n"),
-      "dashboard",
-    )
-  }
+async function writeIndex() {
+  const tripOverview = await readFile(path.join(sourceRoot, "Trip Overview.md"), "utf8")
+  await writeFile(path.join(contentRoot, "index.md"), sanitizeContent(tripOverview))
 }
 
 async function writePrivateStubs() {
@@ -189,11 +143,9 @@ async function main() {
 
   for (const file of publishFiles) await copyFile(file)
   for (const dir of publishDirs) await copyDir(dir)
-  for (const query of publishQueries) await copyFile(query)
   for (const logisticsPage of publishLogistics) await copyFile(logisticsPage)
 
   await writeIndex()
-  await writeDashboardStubs()
   await writePrivateStubs()
 
   console.log(`Synced public Quartz content to ${contentRoot}`)

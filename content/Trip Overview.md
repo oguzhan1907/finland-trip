@@ -7,6 +7,7 @@ sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
   - "Sources/Everyman's Rights - Paddling.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "Sources/Packrafting - Luontoon.md"
   - "Sources/Solstice Festival Official Details.md"
   - "Sources/The Archipelago Trail.md"
 tags:
@@ -31,7 +32,7 @@ tags:
 
 1. Build a Helsinki-starting route loop around the fixed [[Entities/Ruka]] / [[Entities/Solstice Festival]] anchor.
 2. Compare reachable route families: Saimaa/Lakeland, archipelago/coast, West Coast, South Coast, and remote lake/island options.
-3. Research kayaking, remote island stays, cabins, trail huts, and camping options that fit the rental-car window.
+3. Research kayaking, packrafting, remote island stays, cabins, trail huts, and camping options that fit the rental-car window.
 4. Understand lodging styles and which areas require early booking.
 5. Capture current travel guidance, maps, ferry pages, lodging pages, festival details, and reference material as source notes.
 
@@ -53,16 +54,16 @@ tags:
 - Everyman's rights can support spontaneous low-impact nature access, but protected-area, campfire, fishing, dog, vehicle, and destination-specific rules still need checks before activity plans are treated as reliable.
 - Finland's hut network may support hiking-oriented overnight options or rest stops, and huts/cabins are in scope. Open wilderness huts are shared and not guaranteed; paid huts need booking, key, and equipment checks.
 - Camping gear is expected to be borrowed from a local friend, so camping is in scope but still depends on gear availability, weather, destination rules, and comfort.
-- Kayaking on lakes and remote island stays are promising trip themes, but they need current provider, access, weather, safety, and lodging checks.
+- Kayaking, packrafting, and remote island stays are promising trip themes, but they need current provider, access, weather, safety, gear, and lodging checks. [[Sources/Packrafting - Luontoon]] specifically points toward sheltered lakes and rivers, near-shore paddling, and destination-rule checks rather than exposed open-water ambitions.
 - Solstice operations add practical constraints: Ruka local movement is mostly foot/ski-lift/taxi/e-bike, the festival site is uneven fell terrain, there is no festival camping on site, and late-night return from the festival site requires walking after the lifts close.
 
 ## Core Pages
 
-- [[Country/_Index]]
-- [[Routes/_Index]]
-- [[Ferries/_Index]]
-- [[Lodging/_Index]]
-- [[Logistics/_Index]]
+- [[Country/_Index|Country]]
+- [[Routes/_Index|Routes]]
+- [[Ferries/_Index|Ferries]]
+- [[Lodging/_Index|Lodging]]
+- [[Logistics/_Index|Logistics]]
 - [[Logistics/Booking Tracker]]
 - [[Queries/Open Planning Questions]]
 - [[Queries/Decision Log]]

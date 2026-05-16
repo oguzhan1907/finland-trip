@@ -2,7 +2,7 @@
 title: Country Research
 type: index
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: []
 tags:
   - country-research
@@ -13,9 +13,6 @@ tags:
 
 This section collects background knowledge about Finland that can make the trip richer without forcing a fixed itinerary.
 
-## Dashboard
-
-- [[Country/Dashboard]]
 
 ## Active Pages
 
@@ -30,10 +27,12 @@ This section collects background knowledge about Finland that can make the trip 
 - Major historical periods and how they still show up in places, architecture, borders, and culture.
 - Natural history: boreal forests, wetlands, archipelago, lake systems, geology, wildlife, and seasonal patterns.
 - Practical context: language, food, sauna, public access norms, road culture, and travel etiquette.
+- Route-relevant regional context for the current Helsinki-to-[[Entities/Ruka]] loop, especially Saimaa, Kainuu, Kuusamo, and any coastal or archipelago add-ons.
 
 ## Source Needs
 
-- Official tourism and park resources.
+- Official tourism and park resources for candidate route regions.
 - Museum and cultural heritage sources.
-- Natural history references.
+- Natural history references for lakes, forests, fells, wildlife, and early/late June conditions.
 - Maps and route context.
+- Practical sources for local norms, outdoor access, sauna, food, and Ruka/Kuusamo travel context.

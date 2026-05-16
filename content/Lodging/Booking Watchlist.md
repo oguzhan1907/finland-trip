@@ -6,6 +6,7 @@ updated: 2026-05-16
 sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "Sources/Packrafting - Luontoon.md"
   - "Sources/Solstice Festival Official Details.md"
   - "Sources/The Archipelago Trail.md"
 tags:
@@ -25,7 +26,7 @@ Use this page for places or regions that may need lodging attention before the r
 | [[Entities/Ruka]] / [[Entities/Solstice Festival]] area | House booked from 2026-06-17 through either 2026-06-21 or 2026-06-22; exact checkout date, house location, parking, and access logistics affect route recovery | Partly resolved, but checkout/date and house-specific logistics remain unknown | Route can preserve a recovery night if checkout is early or festival travel is tiring | User planning update on 2026-05-16; [[Sources/Solstice Festival Official Details]] |
 | [[Entities/Archipelago Trail]] | Full route needs several nights around ferry-linked island stages | Unknown until ferry and lodging pages are captured | Could choose Small Archipelago Trail or partial detour | [[Sources/The Archipelago Trail]] |
 | Saimaa / Savo-Karelia | Seven-day route has appealing lake, cottage, resort, and national-park-adjacent stops | Unknown; likely varies by town and lakeside location | Route can be pruned or shifted between towns | [[Sources/Discover 5 Extraordinary Road Trips in Finland]] |
-| Lake kayaking / remote island stays | User interest; may require providers, permits, boat transfers, weather windows, and fixed pickup/return times | Unknown until route region and provider are selected | Can be downgraded to day kayaking or lakeside cabins if remote overnight is too constrained | User planning update on 2026-05-16 |
+| Lake kayaking / packrafting / remote island stays | User interest; may require providers, permits, boat transfers, weather windows, gear checks, and fixed pickup/return times | Unknown until route region and provider are selected | Can be downgraded to short sheltered-water paddling, day kayaking, shore walks, or lakeside cabins if remote overnight is too constrained | [[Sources/Packrafting - Luontoon]] |
 | North Lapland | Long distances make fallback lodging more consequential | Unknown; remote stages may have limited supply | Can be dropped if pace is too ambitious | [[Sources/Discover 5 Extraordinary Road Trips in Finland]] |
 | West Coast beaches / Hailuoto / Kvarken | Coastal holiday areas and islands may concentrate demand | Unknown; needs current accommodation research | Route can use towns as fallback bases | [[Sources/Discover 5 Extraordinary Road Trips in Finland]] |
 | Hut-based hiking nights | Paid shared rental huts or rental huts need availability, key, and equipment checks; open huts do not guarantee space | Unknown until a specific hut/route is selected | Can remain opportunistic unless a hike requires an overnight hut | [[Sources/Huts - Hiking Tips]] |
@@ -42,7 +43,7 @@ Use this page for places or regions that may need lodging attention before the r
 - A remote route family remains in scope after route-family comparison.
 - A hut-based hike becomes more than an opportunistic idea.
 - A paid shared rental hut or rental hut is needed to make a remote stop reliable.
-- A kayaking or remote island stay requires a provider, boat transfer, or weather-specific booking.
+- A kayaking, packrafting, or remote island stay requires a provider, boat transfer, gear pickup, or weather-specific booking.
 
 ## Related Pages
 

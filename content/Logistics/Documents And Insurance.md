@@ -13,4 +13,4 @@ tags:
 
 The documents and insurance checklist is intentionally omitted from the public site because it can contain personal document, insurance, and emergency-contact details.
 
-Return to [[Logistics/_Index]] or [[Home]].
+Return to [[Logistics/_Index|Logistics]] or [[Home]].

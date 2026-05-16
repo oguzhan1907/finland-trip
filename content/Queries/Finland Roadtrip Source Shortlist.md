@@ -8,6 +8,7 @@ sources:
   - "Sources/The Archipelago Trail.md"
   - "Sources/Everyman's Rights - Paddling.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "Sources/Packrafting - Luontoon.md"
   - "Sources/Solstice Festival Official Details.md"
 tags:
   - query
@@ -39,6 +40,7 @@ The highest-value next source work is not broad inspiration. It is current route
 - [[Sources/The Archipelago Trail]]: compact ferry-linked coastal route module, now secondary unless it fits the Ruka loop.
 - [[Sources/Everyman's Rights - Paddling]]: outdoor-access rules and constraints for spontaneous low-impact nature stops.
 - [[Sources/Huts - Hiking Tips]]: hut and outdoor accommodation rules, facilities, and booking distinctions.
+- [[Sources/Packrafting - Luontoon]]: packrafting activity frame for sheltered water, near-shore paddling, dry/secure gear, and destination restrictions.
 - [[Sources/Solstice Festival Official Details]]: fixed Ruka/Kuusamo festival anchor and current festival logistics.
 
 ## Best First Sources
@@ -66,19 +68,19 @@ The highest-value next source work is not broad inspiration. It is current route
 
 The strongest early route-planning source was Visit Finland's roadtrip article because it gave several route shapes without forcing a single itinerary. After the Solstice source, the route problem is narrower: compare ways to move from Helsinki toward [[Entities/Ruka]] before 2026-06-17, then return to Helsinki with enough recovery and car-return slack before 2026-06-25.
 
-For the current frame, official route and destination sources should focus on eastern/Saimaa/Kainuu travel, Ruka/Kuusamo logistics, and any lake kayaking or remote island stay candidates. The Archipelago Trail remains useful, but it is now an optional module rather than the default strongest candidate.
+For the current frame, official route and destination sources should focus on eastern/Saimaa/Kainuu travel, Ruka/Kuusamo logistics, and any lake kayaking, packrafting, or remote island stay candidates. The Archipelago Trail remains useful, but it is now an optional module rather than the default strongest candidate.
 
 For anything that can affect a booking or same-day operation, use official operational sources instead of inspirational articles. Fintraffic is the road-conditions source, ferry operators are the timetable/booking source, Traficom is the driving-licence source, and FMI wildfire warnings are the open-fire source.
 
 ## Related Pages
 
 - [[Trip Overview]]
-- [[Country/_Index]]
-- [[Routes/_Index]]
+- [[Country/_Index|Country]]
+- [[Routes/_Index|Routes]]
 - [[Routes/Getting To Finland]]
-- [[Ferries/_Index]]
+- [[Ferries/_Index|Ferries]]
 - [[Ferries/Ferry Options]]
-- [[Lodging/_Index]]
+- [[Lodging/_Index|Lodging]]
 - [[Logistics/Route Planning]]
 - [[Logistics/Roadtrip Operations]]
 - [[Logistics/Booking Tracker]]
@@ -92,5 +94,5 @@ For anything that can affect a booking or same-day operation, use official opera
 - Is the rental car actually booked, and what provider, vehicle class, insurance, cross-border terms, and return time apply?
 - Is the [[Entities/Solstice Festival]] house booked through 2026-06-21 or 2026-06-22?
 - What is the maximum acceptable driving time for pre-festival and post-festival days?
-- Which eastern/Saimaa/Kainuu sources should be captured first for kayaking, cabins, huts, remote island stays, and weather-proof stops?
+- Which eastern/Saimaa/Kainuu sources should be captured first for kayaking or packrafting, cabins, huts, remote island stays, and weather-proof stops?
 - Does the route still need Archipelago Trail or Baltic ferry source work, or should ferry research stay secondary?

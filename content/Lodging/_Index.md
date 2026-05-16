@@ -2,7 +2,7 @@
 title: Lodging
 type: index
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: []
 tags:
   - lodging
@@ -14,9 +14,6 @@ tags:
 
 This section collects lodging research without forcing fixed overnight stops too early.
 
-## Dashboard
-
-- [[Lodging/Dashboard]]
 
 ## Active Pages
 
@@ -30,8 +27,12 @@ This section collects lodging research without forcing fixed overnight stops too
 - Identify flexible booking strategies.
 - Track areas where lodging may be limited or needs early booking.
 - Keep spontaneous travel possible without ignoring real constraints.
+- Treat the [[Entities/Ruka]] house as the main fixed lodging anchor until checkout date, exact location, parking, and access details are confirmed.
+- Compare cabins, campsites, huts, remote island stays, and apartments as route tools rather than committing to one lodging style too early.
 
 ## Related Pages
 
 - [[Routes/Route Ideas]]
 - [[Logistics/Booking Tracker]]
+- [[Concepts/Outdoor Accommodation In Finland]]
+- [[Queries/Helsinki Ruka Route Comparison]]

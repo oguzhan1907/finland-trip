@@ -7,6 +7,7 @@ sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
   - "Sources/Everyman's Rights - Paddling.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "Sources/Packrafting - Luontoon.md"
   - "Sources/Solstice Festival Official Details.md"
   - "Sources/The Archipelago Trail.md"
 tags:
@@ -28,7 +29,7 @@ tags:
 - Should the first non-Helsinki route anchor be [[Entities/Archipelago Trail]], Saimaa/Lakeland, West Coast, South Coast, or a lake/island kayaking area?
 - Is North Lapland unrealistic for this trip unless it becomes the dominant priority?
 - Is the full [[Entities/Archipelago Trail]], the Small Archipelago Trail, or a partial archipelago detour the right scale?
-- Which lake regions support kayaking plus a remote or island overnight without making the route too fragile?
+- Which lake or river regions support kayaking or packrafting plus a remote or island overnight without making the route too fragile?
 
 ## Country Research
 
@@ -64,13 +65,15 @@ tags:
 - What is the preferred mix of nature, towns, cities, hiking, sauna, and rest?
 - Which camping style is realistic with borrowed local gear: campsite camping, temporary camping under [[Concepts/Everyman's Rights In Finland]], or both?
 - Which hut and cabin comfort level is acceptable: open wilderness hut, paid shared rental hut, private rental hut, campsite cabin, or commercial cabin?
-- Will kayaking be guided, rented locally, self-guided, or opportunistic?
+- Will kayaking or packrafting be guided, rented locally, self-guided, borrowed-gear based, or opportunistic?
 - Will the trip include fishing, foraging, dog travel, campfires, or other activities that need separate rule checks?
 
 ## Outdoor Rules
 
-- Which candidate lake or island kayaking areas have legal landing, camping, rental, guide, weather, and safety constraints?
+- Which candidate lake, river, or island paddling areas have legal landing, camping, rental, guide, weather, wind exposure, and safety constraints?
+- Which candidate paddling waters are sheltered enough for near-shore, low-friction packrafting rather than exposed open-water travel?
 - Which candidate nature stops are national parks, strict nature reserves, seal reserves, mire reserves, old-growth forests, herb-rich forests, or ordinary access areas?
+- Which June bird-nesting restrictions affect small lakes, mires, islands, and island shores?
 - Which destinations require marked-route use or designated camping sites?
 - Which candidate regions have huts close enough to realistic roadtrip stops, and which of those require booking?
 - Which current campfire and wildfire-warning rules apply once route regions are chosen?
@@ -81,7 +84,7 @@ tags:
 - Current ferry schedules and policies.
 - Accommodation-specific [[Entities/Solstice Festival]] details: house location, checkout date, parking, access code, check-in, and cancellation terms.
 - Rental-car booking terms and insurance.
-- Current lake kayaking providers, route guidance, and safety rules.
+- Current lake kayaking and packrafting providers, route guidance, sheltered-water suitability, gear supply, and safety rules.
 - Current remote island accommodation, cabin, campsite, and hut options.
 - Current official road and travel guidance.
 - Current Luontoon / Nationalparks destination rules for chosen outdoor stops.
@@ -94,15 +97,16 @@ tags:
 ## Related Pages
 
 - [[Trip Overview]]
-- [[Country/_Index]]
-- [[Routes/_Index]]
-- [[Ferries/_Index]]
-- [[Lodging/_Index]]
-- [[Logistics/_Index]]
+- [[Country/_Index|Country]]
+- [[Routes/_Index|Routes]]
+- [[Ferries/_Index|Ferries]]
+- [[Lodging/_Index|Lodging]]
+- [[Logistics/_Index|Logistics]]
 - [[Queries/Decision Log]]
 - [[Queries/Current Trip Constraints]]
 - [[Queries/Helsinki Ruka Route Comparison]]
 - [[Sources/Discover 5 Extraordinary Road Trips in Finland]]
 - [[Sources/Everyman's Rights - Paddling]]
+- [[Sources/Packrafting - Luontoon]]
 - [[Sources/Solstice Festival Official Details]]
 - [[Sources/The Archipelago Trail]]
