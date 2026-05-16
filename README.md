@@ -1,17 +1,39 @@
-# Quartz v4
+# Finland Roadtrip Wiki
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Public Quartz site for a sanitized read-only view of the Finland roadtrip planning vault.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Source vault:
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+```txt
+/Users/okiziltepe/Wikis/finland-trip-planning
+```
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Public site repo:
 
-## Sponsors
+```txt
+/Users/okiziltepe/Projects/finland-trip
+```
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Workflow
+
+Sync the public allowlist from the private Obsidian vault:
+
+```sh
+PATH="/opt/homebrew/opt/node/bin:$PATH" npm run sync-content
+```
+
+Build locally:
+
+```sh
+PATH="/opt/homebrew/opt/node/bin:$PATH" npm run build
+```
+
+Preview locally:
+
+```sh
+PATH="/opt/homebrew/opt/node/bin:$PATH" npm run serve
+```
+
+## Public Content Policy
+
+The sync script publishes only selected Markdown pages from the vault. It excludes `raw/`, private logistics pages, Dataview dashboards, logs, templates, skills, `.obsidian/`, and repo-agent instructions.
