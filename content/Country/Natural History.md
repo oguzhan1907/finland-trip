@@ -2,7 +2,7 @@
 title: Natural History
 type: country-note
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
   - "Sources/Everyman's Rights - Paddling.md"
@@ -37,9 +37,10 @@ This page gathers natural history context for Finland: landscapes, ecosystems, g
 
 - Turku archipelago: [[Sources/The Archipelago Trail]] frames the archipelago as a route landscape shaped by wind, land, sea, islands, and ferry-linked coastal villages.
 - Protected-area access: [[Sources/Everyman's Rights - Paddling]] distinguishes ordinary public access from protected-area rules. National parks usually allow roaming except in restricted areas but limit camping to designated sites; strict nature reserves and seal reserves are generally permission-based or route-limited; mire reserves are often more open but can still restrict access during bird nesting.
-- Saimaa / Lakeland: [[Sources/Discover 5 Extraordinary Road Trips in Finland]] points to Punkaharju ridges, Lake Saimaa, Road 62, Linnansaari, and Saimaa ringed seal context as a nature-heavy route family.
-- North Lapland: the same Visit Finland source points to Saariselkä, Urho Kekkonen National Park, Kevo, Utsjoki, Nuorgam, and the Teno/Tana river corridor as northern landscape themes.
-- West Coast: the Visit Finland source points to Yyteri, Bothnian Sea National Park, Kvarken Archipelago, Kalajoki, and Hailuoto as coastal/natural route candidates.
+- Saimaa / Lakeland: [[Sources/Discover 5 Extraordinary Road Trips in Finland]] points to Punkaharju ridges, Lake Saimaa, Road 62, [[Entities/Linnansaari National Park]], and Saimaa ringed seal context as a nature-heavy route family; [[Sources/Lonely Planet Finland 11th Edition]] and the eastern source pack add [[Entities/Kolovesi National Park]] as a paddling-oriented follow-up.
+- North Lapland: the same Visit Finland source points to Saariselka, [[Entities/Urho Kekkonen National Park]], Kevo, Utsjoki, Nuorgam, and the Teno/Tana river corridor as northern landscape themes.
+- West Coast: the Visit Finland source points to Yyteri, [[Entities/Bothnian Sea National Park]], Kvarken Archipelago, Kalajoki, and Hailuoto as coastal/natural route candidates.
+- Route-relevant park set: [[Queries/Route Relevant National Parks]] now tracks the national parks that deserve entity pages before deeper official-source ingest.
 
 ## Source Needs From Here
 

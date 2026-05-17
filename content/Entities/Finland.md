@@ -5,8 +5,10 @@ created: 2026-05-15
 updated: 2026-05-16
 sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
+  - "Sources/Eastern Saimaa Kainuu Ruka Source Pack.md"
   - "Sources/Everyman's Rights - Paddling.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "Sources/Lonely Planet Finland 11th Edition.md"
   - "Sources/Packrafting - Luontoon.md"
   - "Sources/Solstice Festival Official Details.md"
   - "Sources/The Archipelago Trail.md"
@@ -30,6 +32,10 @@ The packrafting source adds a water-activity layer: lake and river paddling can 
 
 The official Solstice source now fixes [[Entities/Ruka]] / Kuusamo as a mid-trip northern anchor. This makes the roadtrip a Helsinki-to-Ruka-to-Helsinki planning problem, with eastern, western, or more direct staged approaches to compare.
 
+The eastern source pack gives the current first route-research corridor: [[Entities/Saimaa]] / eastern Finland / [[Entities/Kainuu]] toward [[Entities/Ruka]], with [[Entities/Hossa National Park]], [[Entities/Oulanka National Park]], and [[Entities/Koli National Park]] as candidate nature-route nodes rather than commitments.
+
+The Lonely Planet 11th edition adds a broader guidebook cross-check across route families. It reinforces [[Entities/Saimaa]] as the shared lake trunk, [[Entities/Koli National Park]] / [[Entities/Kuhmo]] as a higher-reward eastern branch, [[Entities/Hossa National Park]] / [[Entities/Oulanka National Park]] as activity-oriented Ruka-adjacent options, and [[Entities/Oulu]], [[Entities/Turku]], and [[Entities/Lapland]] as comparison modules.
+
 ## Relationships
 
 - Trip overview: [[Trip Overview]]
@@ -38,6 +44,11 @@ The official Solstice source now fixes [[Entities/Ruka]] / Kuusamo as a mid-trip
 - Route design: [[Concepts/Roadtrip Route Design]]
 - Route candidate: [[Entities/Archipelago Trail]]
 - Fixed route anchor: [[Entities/Ruka]] / [[Entities/Solstice Festival]]
+- Helsinki start/end: [[Entities/Helsinki]]
+- Route regions: [[Entities/Saimaa]], [[Entities/Kainuu]]
+- Route cities and staging candidates: [[Entities/Savonlinna]], [[Entities/Kuopio]], [[Entities/Tampere]], [[Entities/Turku]], [[Entities/Oulu]]
+- Northern comparison region: [[Entities/Lapland]]
+- Candidate national parks: [[Entities/Hossa National Park]], [[Entities/Oulanka National Park]], [[Entities/Koli National Park]], [[Entities/Linnansaari National Park]], [[Entities/Kolovesi National Park]], [[Entities/Archipelago National Park]], [[Entities/Bothnian Sea National Park]], [[Entities/Urho Kekkonen National Park]]
 - Tourism source entity: [[Entities/Visit Finland]]
 - Outdoor authority: [[Entities/Metsähallitus]]
 - Public-access concept: [[Concepts/Everyman's Rights In Finland]]
@@ -51,7 +62,7 @@ The official Solstice source now fixes [[Entities/Ruka]] / Kuusamo as a mid-trip
 - Road rules:
 - Lodging approach: mixed; Helsinki carless stays, [[Entities/Solstice Festival]] house, cabins, huts, campsites, and flexible lodging are in scope.
 - Hut / outdoor accommodation approach: in scope; camping gear expected from a local friend, but actual use depends on rules, weather, gear, and comfort.
-- Nature and activity stops: first candidates include archipelago/coast, Saimaa/Lakeland, West Coast natural areas, lake kayaking or packrafting, remote island stays, and Ruka/Kuusamo-area recovery or nature stops. North Lapland beyond Ruka currently seems unrealistic unless it becomes a top priority.
+- Nature and activity stops: first candidates include archipelago/coast, [[Entities/Saimaa]], [[Entities/Kainuu]], West Coast natural areas, lake kayaking or packrafting, remote island stays, and Ruka/Kuusamo-area recovery or nature stops. North Lapland beyond Ruka currently seems unrealistic unless it becomes a top priority.
 - Outdoor access: use [[Concepts/Everyman's Rights In Finland]] as a flexibility frame, then check destination-specific Luontoon / Nationalparks rules before relying on camping, paddling, fishing, dog access, or protected-area movement.
 - Cities and towns: first route-source candidates include Turku, Naantali, Savonlinna, Lappeenranta, Kuopio, Vaasa, Oulu, and smaller coastal/ironworks towns.
 - Food and resupply:
@@ -59,8 +70,10 @@ The official Solstice source now fixes [[Entities/Ruka]] / Kuusamo as a mid-trip
 ## Sources
 
 - [[Sources/Discover 5 Extraordinary Road Trips in Finland]]
+- [[Sources/Eastern Saimaa Kainuu Ruka Source Pack]]
 - [[Sources/Everyman's Rights - Paddling]]
 - [[Sources/Huts - Hiking Tips]]
+- [[Sources/Lonely Planet Finland 11th Edition]]
 - [[Sources/Packrafting - Luontoon]]
 - [[Sources/Solstice Festival Official Details]]
 - [[Sources/The Archipelago Trail]]
@@ -71,6 +84,7 @@ The official Solstice source now fixes [[Entities/Ruka]] / Kuusamo as a mid-trip
 - Which cities, parks, or routes are must-see?
 - What current official travel and road guidance needs to be captured?
 - Which current Luontoon / Nationalparks destination pages need to be captured for outdoor stops?
+- Which national park pages from [[Queries/Route Relevant National Parks]] deserve full official/source ingest next?
 - Which route approach to [[Entities/Ruka]] best fits the festival anchor and the 2026-06-25 car return?
 - Are hut-based hiking nights or only day-use hut stops in scope?
 - Is [[Entities/Archipelago Trail]] a core route module or only a fallback/add-on?

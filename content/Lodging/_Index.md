@@ -29,6 +29,7 @@ This section collects lodging research without forcing fixed overnight stops too
 - Keep spontaneous travel possible without ignoring real constraints.
 - Treat the [[Entities/Ruka]] house as the main fixed lodging anchor until checkout date, exact location, parking, and access details are confirmed.
 - Compare cabins, campsites, huts, remote island stays, and apartments as route tools rather than committing to one lodging style too early.
+- Use [[Entities/Hossa National Park]] as the first Eastern B lodging proof point if the source-backed route survives mapping.
 
 ## Related Pages
 

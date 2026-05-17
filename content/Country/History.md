@@ -2,8 +2,9 @@
 title: History
 type: country-note
 created: 2026-05-15
-updated: 2026-05-15
-sources: []
+updated: 2026-05-16
+sources:
+  - "Sources/Lonely Planet Finland 11th Edition.md"
 tags:
   - country-research
   - history
@@ -25,10 +26,10 @@ This page gathers historical context that can help interpret places visited duri
 
 ## Place Connections To Build
 
-- Historic towns and old town centers.
-- Fortresses, museums, churches, and borderland sites.
-- Architecture and design stops.
-- War history sites, where relevant and wanted.
+- Historic towns and old town centers, especially [[Entities/Turku]], Porvoo, Rauma, and [[Entities/Savonlinna]].
+- Fortresses, museums, churches, and borderland sites that connect to route choices.
+- Architecture and design stops around [[Entities/Helsinki]], [[Entities/Tampere]], and central Finland.
+- War history sites, where relevant and wanted; [[Entities/Kuhmo]] now appears as a candidate Winter War / borderland history stop through [[Sources/Lonely Planet Finland 11th Edition]].
 
 ## Open Questions
 
@@ -37,4 +38,6 @@ This page gathers historical context that can help interpret places visited duri
 
 ## Sources
 
-- No source pages yet.
+- [[Sources/Lonely Planet Finland 11th Edition]]
+
+Dedicated Finnish history sources are still candidates in `raw/` and have not yet been processed into country-history source notes.

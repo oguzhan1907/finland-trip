@@ -3,7 +3,9 @@ title: Decision Log
 type: query
 created: 2026-05-15
 updated: 2026-05-16
-sources: []
+sources:
+  - "Queries/Helsinki Ruka Route Comparison.md"
+  - "Sources/Eastern Saimaa Kainuu Ruka Source Pack.md"
 tags:
   - query
   - decisions
@@ -21,11 +23,12 @@ Use this page for planning decisions that should not disappear into chat history
 | 2026-05-16 | Treat Helsinki as the roadtrip start and end, with plane arrival and carless Helsinki days. | User confirmed the trip is in Finland from 2026-06-04 to 2026-06-26, arriving by plane, with the car used only for 2026-06-06 to 2026-06-25. | Refocuses route planning from international car/ferry entry to a Helsinki-starting Finland loop. | [[Trip Overview]], [[Logistics/Route Planning]], [[Queries/Current Trip Constraints]] |
 | 2026-05-16 | Treat [[Entities/Solstice Festival]] as a fixed mid-trip anchor. | User confirmed the festival plan and a house booked from 2026-06-17 through either 2026-06-21 or 2026-06-22. | The next route comparison must work around the festival stay and exact checkout date. | [[Entities/Solstice Festival]], [[Logistics/Booking Tracker]], [[Queries/Open Planning Questions]] |
 | 2026-05-16 | Keep camping, huts, cabins, lake kayaking, and remote island stays in scope. | User wants to borrow camping gear locally and is interested in huts/cabins plus lake and island adventure. | Lodging and route research should compare flexible outdoor options with reliable booked options. | [[Concepts/Outdoor Accommodation In Finland]], [[Lodging/Lodging Strategy]], [[Logistics/Packing]] |
+| 2026-05-16 | Keep all three eastern route skeletons alive for the first mapping pass. | The user agreed that Saimaa -> Koli -> Kainuu -> Ruka, Saimaa -> Hossa -> Ruka, and the simpler Saimaa -> Kuopio/Kajaani -> Ruka staging route should all survive for now. | The next route task should compare all three skeletons before pruning; Koli should be judged hardest for distinct value versus drive-time cost. | [[Queries/Helsinki Ruka Route Comparison]], [[Sources/Eastern Saimaa Kainuu Ruka Source Pack]], [[Routes/Route Ideas]] |
 
 ## Pending Decisions
 
 - Country research sources.
-- Helsinki-loop route families around the festival anchor.
+- Final eastern route skeleton after the first mapping pass.
 - Vehicle.
 - Ferry research priorities.
 - Lodging strategy.

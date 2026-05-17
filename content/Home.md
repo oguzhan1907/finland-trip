@@ -5,8 +5,11 @@ created: 2026-05-11
 updated: 2026-05-16
 sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
+  - "Sources/Eastern Saimaa Kainuu Ruka Source Pack.md"
   - "Sources/Everyman's Rights - Paddling.md"
+  - "Sources/Hossa Oulanka Official Source Pack.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "Sources/Lonely Planet Finland 11th Edition.md"
   - "Sources/Packrafting - Luontoon.md"
   - "Sources/Solstice Festival Official Details.md"
   - "Sources/The Archipelago Trail.md"
@@ -42,8 +45,12 @@ This vault is the research and planning wiki for the Finland roadtrip from Thurs
 - [[Entities/Solstice Festival]] is now a fixed mid-trip anchor in [[Entities/Ruka]], Kuusamo, with a house booked for 2026-06-17 through either 2026-06-21 or 2026-06-22.
 - The vault is oriented around research first: country context, routes, ferries, lodging, history, natural history, and practical logistics.
 - No daily itinerary is maintained for now; route ideas should stay flexible and spontaneous.
-- The first active source notes are now route-oriented: [[Sources/Discover 5 Extraordinary Road Trips in Finland]] and [[Sources/The Archipelago Trail]].
+- The active source set now covers route inspiration, the Turku archipelago, official outdoor rules, huts, packrafting, the Solstice anchor, the eastern source pack, the Hossa/Oulanka official source pass, and the Lonely Planet route cross-check.
 - The strongest immediate route comparison is now a Helsinki-starting loop around the fixed festival anchor, likely comparing Saimaa/Lakeland, archipelago/coast, West Coast, and remote lake/island options. North Lapland currently looks unrealistic unless it becomes a top priority.
+- The eastern / Saimaa / Kainuu / Ruka source pack is now captured in [[Sources/Eastern Saimaa Kainuu Ruka Source Pack]], turning the next route task into a map-and-prune exercise rather than broad source discovery.
+- [[Sources/Lonely Planet Finland 11th Edition]] is now ingested as a route-family cross-check. It strengthens the [[Entities/Saimaa]] trunk, keeps [[Entities/Koli National Park]] / [[Entities/Kuhmo]] and [[Entities/Hossa National Park]] / [[Entities/Oulanka National Park]] alive as eastern branches, and keeps [[Entities/Oulu]], [[Entities/Turku]], and [[Entities/Lapland]] as comparison modules rather than defaults.
+- [[Sources/Hossa Oulanka Official Source Pack]] and [[Queries/Hossa Oulanka Route Fit]] now strengthen the Eastern B skeleton: [[Entities/Saimaa]] -> [[Entities/Hossa National Park]] -> [[Entities/Ruka]], with [[Entities/Oulanka National Park]] kept as a Ruka-adjacent day/recovery/specific-activity module rather than a loose extra.
+- [[Queries/Route Relevant National Parks]] now tracks the active national-park entity set: [[Entities/Hossa National Park]], [[Entities/Oulanka National Park]], [[Entities/Koli National Park]], [[Entities/Linnansaari National Park]], [[Entities/Kolovesi National Park]], [[Entities/Archipelago National Park]], [[Entities/Bothnian Sea National Park]], and [[Entities/Urho Kekkonen National Park]].
 - The first Luontoon outdoor-rules source is now ingested: [[Sources/Everyman's Rights - Paddling]] and [[Concepts/Everyman's Rights In Finland]].
 - Hut research is now started through [[Sources/Huts - Hiking Tips]] and [[Concepts/Outdoor Accommodation In Finland]]. Camping gear, trail huts, cabins, kayaking, and remote island stays are in scope, subject to route, weather, gear, and rule checks.
 - Packrafting guidance is now ingested through [[Sources/Packrafting - Luontoon]] and [[Concepts/Packrafting And Paddling In Finland]], making sheltered water, near-shore paddling, gear load, and destination restrictions active planning checks.
@@ -61,7 +68,9 @@ This vault is the research and planning wiki for the Finland roadtrip from Thurs
 
 - Confirm the exact [[Entities/Solstice Festival]] house location and checkout date: 2026-06-21 or 2026-06-22.
 - Use [[Queries/Helsinki Ruka Route Comparison]] to guide the next source pass: likely eastern/Saimaa approach before the festival and central/direct return afterward.
-- Research sheltered lake or river paddling, remote island stays, cabins, and hut options in route regions that are reachable without forcing Lapland.
+- Use [[Queries/Hossa Oulanka Route Fit]], [[Queries/Lonely Planet Route Cross Check]], and [[Sources/Eastern Saimaa Kainuu Ruka Source Pack]] to map the eastern skeletons, with Eastern B now the first route to test against drive stages and provider availability.
+- Research sheltered lake or river paddling, remote island stays, cabins, and hut options only for route regions that survive that first mapping pass.
 - Continue ingesting the Luontoon outdoor rules set next: safety, campfires, and outdoor accommodation.
 - Capture official Archipelago Trail ferry timetable/booking pages if that route remains interesting.
-- Use the Lonely Planet 11th edition source to cross-check the first route families and fill region-specific detail.
+- Check Hossa provider availability, rental terms, campsite/cabin/rental-hut options, and drive stages if Eastern B remains the lead.
+- Prioritize official Luontoon destination-rule ingests for [[Entities/Kolovesi National Park]] / [[Entities/Linnansaari National Park]] or [[Entities/Koli National Park]] next if those route modules survive the mapping pass.

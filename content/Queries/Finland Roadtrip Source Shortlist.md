@@ -5,6 +5,7 @@ created: 2026-05-15
 updated: 2026-05-16
 sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
+  - "Sources/Eastern Saimaa Kainuu Ruka Source Pack.md"
   - "Sources/The Archipelago Trail.md"
   - "Sources/Everyman's Rights - Paddling.md"
   - "Sources/Huts - Hiking Tips.md"
@@ -37,6 +38,7 @@ The highest-value next source work is not broad inspiration. It is current route
 ## Already Processed
 
 - [[Sources/Discover 5 Extraordinary Road Trips in Finland]]: first route-family source across Lapland, Lakeland, coast, and south Finland.
+- [[Sources/Eastern Saimaa Kainuu Ruka Source Pack]]: current source pack for the first serious Saimaa / eastern Finland / Kainuu / Ruka route pass.
 - [[Sources/The Archipelago Trail]]: compact ferry-linked coastal route module, now secondary unless it fits the Ruka loop.
 - [[Sources/Everyman's Rights - Paddling]]: outdoor-access rules and constraints for spontaneous low-impact nature stops.
 - [[Sources/Huts - Hiking Tips]]: hut and outdoor accommodation rules, facilities, and booking distinctions.

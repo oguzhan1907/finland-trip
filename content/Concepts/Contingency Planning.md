@@ -4,8 +4,11 @@ type: concept
 created: 2026-05-15
 updated: 2026-05-16
 sources:
+  - "Sources/Eastern Saimaa Kainuu Ruka Source Pack.md"
   - "Sources/Everyman's Rights - Paddling.md"
+  - "Sources/Hossa Oulanka Official Source Pack.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "Sources/Lonely Planet Finland 11th Edition.md"
   - "Sources/Packrafting - Luontoon.md"
   - "Sources/Solstice Festival Official Details.md"
   - "Sources/The Archipelago Trail.md"
@@ -23,6 +26,10 @@ Contingency planning is the set of backups that keep the roadtrip workable when 
 
 - Weather backup:
 - Long-drive backup: especially for the approach to [[Entities/Ruka]] and the post-festival return to Helsinki.
+- Route-pruning backup: if [[Entities/Saimaa]] -> [[Entities/Koli National Park]] -> [[Entities/Kainuu]] -> [[Entities/Ruka]] is too ambitious, keep only one major eastern module before the festival.
+- Guidebook-branch backup: if the Lonely Planet-supported Koli/Kuhmo branch is too slow, shift to [[Entities/Hossa National Park]] or a simpler [[Entities/Kuopio]] / Kajaani staging route rather than forcing all eastern highlights.
+- Hossa backup: if Hossa rentals, cabins, campsite, or drive stages do not hold, downgrade it to a short stop or shift to the simpler [[Entities/Kuopio]] / Kajaani staging spine.
+- Oulanka backup: if parking, crowds, mosquitoes, weather, hut capacity, or festival fatigue make Oulanka brittle, keep it as a skip or short scenic/day-hike option from [[Entities/Ruka]].
 - Ferry delay backup: especially relevant if [[Entities/Archipelago Trail]] remains in scope.
 - Lodging fallback: island and remote route modules need earlier fallback mapping than flexible city stays.
 - Outdoor-access fallback: if camping, paddling, fishing, dog access, campfires, or protected-area movement is restricted, the route needs a nearby legal alternative.
@@ -39,7 +46,10 @@ Contingency planning is the set of backups that keep the roadtrip workable when 
 - [[Sources/Everyman's Rights - Paddling]] creates the first outdoor-access contingency rule: public access can support flexible stops, but protected areas, campfires, off-road vehicle access, dog rules, fishing restrictions, and designated camping rules can invalidate a casual plan.
 - [[Sources/Huts - Hiking Tips]] adds an accommodation contingency distinction: open wilderness huts can help as rest or emergency options in some areas, but paid rental huts, shared rental huts, keys, equipment, and booking conditions need current checks before they can be treated as lodging.
 - [[Sources/Packrafting - Luontoon]] adds a paddling contingency rule: packrafts fit sheltered lakes and rivers better than large open water, and wind or overloaded gear can turn a simple idea into a poor plan.
+- [[Sources/Eastern Saimaa Kainuu Ruka Source Pack]] adds a route-contingency rule: the eastern approach has many plausible nodes, so the plan needs a short list of viable skeletons before destination-specific lodging or paddling bookings.
 - [[Sources/Solstice Festival Official Details]] makes [[Entities/Ruka]] the main fixed-date contingency point: weather, fatigue, house checkout, parking, late-night movement, and post-festival driving all need backups before route commitments become tight.
+- [[Sources/Lonely Planet Finland 11th Edition]] adds broad route options but also reinforces the need to separate route inspiration from current operations. Treat provider names, prices, transport links, and seasonal notes as leads until verified.
+- [[Sources/Hossa Oulanka Official Source Pack]] narrows the Eastern B contingency problem: Hossa now deserves provider and route-stage checks first, while Oulanka should stay optional unless a specific day hike, river activity, or recovery plan passes the checkout/fatigue test.
 
 ## Related Concepts
 
@@ -59,9 +69,12 @@ Contingency planning is the set of backups that keep the roadtrip workable when 
 
 ## Sources
 
+- [[Sources/Eastern Saimaa Kainuu Ruka Source Pack]]
+- [[Sources/Hossa Oulanka Official Source Pack]]
 - [[Sources/The Archipelago Trail]]
 - [[Sources/Everyman's Rights - Paddling]]
 - [[Sources/Huts - Hiking Tips]]
+- [[Sources/Lonely Planet Finland 11th Edition]]
 - [[Sources/Packrafting - Luontoon]]
 - [[Sources/Solstice Festival Official Details]]
 

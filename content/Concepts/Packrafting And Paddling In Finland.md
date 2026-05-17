@@ -5,6 +5,9 @@ created: 2026-05-16
 updated: 2026-05-16
 sources:
   - "Sources/Everyman's Rights - Paddling.md"
+  - "Sources/Eastern Saimaa Kainuu Ruka Source Pack.md"
+  - "Sources/Hossa Oulanka Official Source Pack.md"
+  - "Sources/Lonely Planet Finland 11th Edition.md"
   - "Sources/Packrafting - Luontoon.md"
 tags:
   - concept
@@ -29,6 +32,9 @@ Packrafting and paddling are promising route themes for this roadtrip because th
 ## Route Implications
 
 - Saimaa, Kainuu, Kuusamo, and other lake/river regions can be compared as paddling candidates only after current local sources identify suitable waters, rentals, guides, landing rules, and weather exposure.
+- [[Sources/Lonely Planet Finland 11th Edition]] adds source leads for Saimaa boat/paddling areas, [[Entities/Oulanka National Park]] rivers, [[Entities/Hossa National Park]] canoeing, and [[Entities/Oulu]] delta kayaking, but those remain leads rather than current operational plans.
+- The eastern source pack moves [[Entities/Saimaa]], [[Entities/Kainuu]], [[Entities/Hossa National Park]], and [[Entities/Oulanka National Park]] from generic paddling ideas into candidate regions that need provider and destination-rule checks.
+- [[Sources/Hossa Oulanka Official Source Pack]] gives Hossa concrete canoe/kayak/SUP/boat rental leads, making it the current first region to check for a low-friction water activity. It also makes Oulanka more conditional: Oulankajoki can be a summer paddling lead, but Aitaniitty shows that some Oulanka lodging is canoe-only and belongs to a specific planned route.
 - Remote island stays may fit the trip style, but they are more constrained than ordinary lakeside cabins because access, transfer timing, weather, and emergency fallback all matter.
 - Packrafting works best as a flexible route enhancer if it can be downgraded to a short paddle, shore walk, swim, sauna, or cabin stay when wind or access rules make the water plan poor.
 
@@ -58,6 +64,9 @@ Packrafting and paddling are promising route themes for this roadtrip because th
 ## Sources
 
 - [[Sources/Everyman's Rights - Paddling]]
+- [[Sources/Eastern Saimaa Kainuu Ruka Source Pack]]
+- [[Sources/Hossa Oulanka Official Source Pack]]
+- [[Sources/Lonely Planet Finland 11th Edition]]
 - [[Sources/Packrafting - Luontoon]]
 
 ## Open Questions

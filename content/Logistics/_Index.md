@@ -17,6 +17,7 @@ This index collects practical planning material for the Finland roadtrip. Resear
 ## Active Logistics Pages
 
 - [[Logistics/Booking Tracker]]
+- [[Logistics/Route Planning]]
 - [[Logistics/Roadtrip Operations]]
 - [[Logistics/Documents And Insurance]]
 - [[Logistics/Budget]]

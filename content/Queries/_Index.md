@@ -17,10 +17,14 @@ Filed query pages preserve reusable answers, comparisons, decisions, and analyse
 ## Filed Queries
 
 - [[Queries/Current Trip Constraints]]
+- [[Queries/Eastern Route Skeleton Visualization]]
 - [[Queries/Helsinki Ruka Route Comparison]]
+- [[Queries/Hossa Oulanka Route Fit]]
+- [[Queries/Lonely Planet Route Cross Check]]
 - [[Queries/Open Planning Questions]]
 - [[Queries/Decision Log]]
 - [[Queries/Finland Roadtrip Source Shortlist]]
+- [[Queries/Route Relevant National Parks]]
 
 ## Candidate Queries
 

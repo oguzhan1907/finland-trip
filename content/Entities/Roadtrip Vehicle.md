@@ -3,7 +3,8 @@ title: Roadtrip Vehicle
 type: entity
 created: 2026-05-15
 updated: 2026-05-16
-sources: []
+sources:
+  - "Queries/Current Trip Constraints.md"
 tags:
   - entity
   - vehicle
@@ -34,7 +35,7 @@ The roadtrip vehicle is a central trip entity because ferry bookings, fuel or ch
 
 ## Sources
 
-- No source pages yet.
+- [[Queries/Current Trip Constraints]]
 
 ## Open Questions
 

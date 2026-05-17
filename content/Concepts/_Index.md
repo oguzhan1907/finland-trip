@@ -17,11 +17,17 @@ Concept pages synthesize recurring planning ideas, route tradeoffs, bottlenecks,
 ## Active Concepts
 
 - [[Concepts/Everyman's Rights In Finland]]
+- [[Concepts/Autiotupa]]
+- [[Concepts/Finnish Hut And Shelter Terms]]
+- [[Concepts/Kota]]
+- [[Concepts/Laavu]]
 - [[Concepts/Outdoor Accommodation In Finland]]
 - [[Concepts/Packrafting And Paddling In Finland]]
+- [[Concepts/Päivätupa]]
 - [[Concepts/Roadtrip Route Design]]
 - [[Concepts/Travel Pace]]
 - [[Concepts/Contingency Planning]]
+- [[Concepts/Varaustupa]]
 
 ## Candidate Concepts
 
@@ -32,7 +38,7 @@ Concept pages synthesize recurring planning ideas, route tradeoffs, bottlenecks,
 - Spontaneity versus booking constraints.
 - History-informed route selection.
 - Natural history route themes.
-- Helsinki-to-Ruka route-family comparison.
+- Eastern source-pack route skeleton pruning.
 - Car-plus-ferry route pacing.
 - Outdoor access versus protected-area restrictions.
 - Hut and campsite reliability.

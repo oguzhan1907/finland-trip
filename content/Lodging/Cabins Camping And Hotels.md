@@ -7,6 +7,7 @@ sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
   - "Sources/Everyman's Rights - Paddling.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "raw/Kota tents and sauna tents - Hiking tips.md"
   - "Sources/The Archipelago Trail.md"
 tags:
   - lodging-research
@@ -36,6 +37,7 @@ This page compares lodging types for Finland and transit routes.
 - Shared rental huts.
 - Rental huts.
 - Day-use huts and rental campfire huts.
+- Finnish hut/shelter terms from [[Concepts/Finnish Hut And Shelter Terms]]: [[Concepts/Autiotupa]] / autiotuvat, [[Concepts/Varaustupa]], [[Concepts/Päivätupa]], [[Concepts/Laavu]], and [[Concepts/Kota]].
 - Remote island lodging or camping where access, weather, and transport are verified.
 
 ## Comparison Criteria
@@ -58,9 +60,20 @@ This page compares lodging types for Finland and transit routes.
 
 [[Sources/Huts - Hiking Tips]] describes open wilderness huts as free, unlocked, shared accommodation for self-guided hikers, usually for one or two nights without booking. They are useful flexibility infrastructure, but they do not guarantee a bed. Paid shared rental huts and rental huts can make a hut-based hike more reliable, but they require booking and key logistics.
 
+Use [[Concepts/Finnish Hut And Shelter Terms]] and the individual term pages when reading Finnish maps or provider pages. A familiar term is not an operational plan: overnight use, fire permission, key pickup, bedding, and booking status still need a current destination check.
+
 ## Sources
 
 - [[Sources/Discover 5 Extraordinary Road Trips in Finland]]
 - [[Sources/Everyman's Rights - Paddling]]
 - [[Sources/Huts - Hiking Tips]]
 - [[Sources/The Archipelago Trail]]
+
+## Related Concepts
+
+- [[Concepts/Finnish Hut And Shelter Terms]]
+- [[Concepts/Autiotupa]]
+- [[Concepts/Varaustupa]]
+- [[Concepts/Päivätupa]]
+- [[Concepts/Laavu]]
+- [[Concepts/Kota]]

@@ -2,7 +2,7 @@
 title: Discover 5 Extraordinary Road Trips in Finland
 type: source
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources:
   - "raw/Discover 5 extraordinary road trips in Finland.md"
 tags:
@@ -66,6 +66,11 @@ For this vault, the most important value is the route taxonomy. It shows that a 
 
 - [[Entities/Finland]]
 - [[Entities/Visit Finland]]
+- [[Entities/Saimaa]]
+- [[Entities/Linnansaari National Park]]
+- [[Entities/Bothnian Sea National Park]]
+- [[Entities/Lapland]]
+- [[Entities/Urho Kekkonen National Park]]
 
 ## Open Questions
 

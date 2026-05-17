@@ -2,7 +2,7 @@
 title: Huts - Hiking Tips
 type: source
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources:
   - "raw/Huts - Hiking tips.md"
 tags:
@@ -29,6 +29,8 @@ This Luontoon source explains the main hut types at Metsähallitus destinations.
 
 The source matters because huts can support flexible nature stops, but they are not a generic replacement for booked accommodation. Open wilderness huts are free and unlocked but shared, limited to short stays, and may be full. Paid hut options can secure a bed or private hut, but require booking and key logistics through Eräluvat or local arrangements.
 
+The planning glossary in [[Concepts/Finnish Hut And Shelter Terms]] maps these English categories to common Finnish terms such as [[Concepts/Autiotupa]], [[Concepts/Varaustupa]], [[Concepts/Päivätupa]], [[Concepts/Laavu]], and [[Concepts/Kota]]. The Huts source directly supports the main category distinctions, while kota/laavu details still need destination-specific or shelter-specific source checks.
+
 ## Why It Matters
 
 For the Finland roadtrip, huts sit between spontaneous camping and conventional lodging. They may make remote hiking or bad-weather rest more practical, but most hut types are trail-oriented rather than car-roadtrip lodging. The trip should treat them as an activity-specific accommodation layer that requires route, access, gear, booking, and destination-rule checks.
@@ -45,6 +47,14 @@ For the Finland roadtrip, huts sit between spontaneous camping and conventional 
 - Day-use huts are free, open, unlocked daytime rest places; emergency overnight use is possible.
 - Rental campfire huts are locked, paid facilities intended for groups or companies to eat and use a fireplace; some may also support overnight stays.
 - Tourist enterprises cannot use open wilderness huts for overnight stays on organized excursions and must use reservable, rental, or private accommodation for customers.
+
+## Finnish Terms To Watch
+
+- [[Concepts/Autiotupa]] / autiotuvat: open wilderness hut / open wilderness huts.
+- [[Concepts/Varaustupa]]: reservable hut; usually a booking/payment lead.
+- [[Concepts/Päivätupa]]: day-use hut.
+- [[Concepts/Laavu]]: lean-to or open shelter; usage depends on the site.
+- [[Concepts/Kota]]: hut or lavvu-style shelter, often associated with a fire pit or stove; fire and camping rules still apply.
 
 ## Important Claims Or Figures
 
@@ -64,6 +74,12 @@ For the Finland roadtrip, huts sit between spontaneous camping and conventional 
 ## Related Concepts
 
 - [[Concepts/Outdoor Accommodation In Finland]]
+- [[Concepts/Finnish Hut And Shelter Terms]]
+- [[Concepts/Autiotupa]]
+- [[Concepts/Varaustupa]]
+- [[Concepts/Päivätupa]]
+- [[Concepts/Laavu]]
+- [[Concepts/Kota]]
 - [[Concepts/Everyman's Rights In Finland]]
 - [[Concepts/Contingency Planning]]
 

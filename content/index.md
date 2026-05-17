@@ -5,8 +5,11 @@ created: 2026-05-15
 updated: 2026-05-16
 sources:
   - "Sources/Discover 5 Extraordinary Road Trips in Finland.md"
+  - "Sources/Eastern Saimaa Kainuu Ruka Source Pack.md"
   - "Sources/Everyman's Rights - Paddling.md"
+  - "Sources/Hossa Oulanka Official Source Pack.md"
   - "Sources/Huts - Hiking Tips.md"
+  - "Sources/Lonely Planet Finland 11th Edition.md"
   - "Sources/Packrafting - Luontoon.md"
   - "Sources/Solstice Festival Official Details.md"
   - "Sources/The Archipelago Trail.md"
@@ -31,7 +34,7 @@ tags:
 ## Planning Priorities
 
 1. Build a Helsinki-starting route loop around the fixed [[Entities/Ruka]] / [[Entities/Solstice Festival]] anchor.
-2. Compare reachable route families: Saimaa/Lakeland, archipelago/coast, West Coast, South Coast, and remote lake/island options.
+2. Compare reachable route families, with the current first pass focused on [[Entities/Saimaa]] / eastern Finland / [[Entities/Kainuu]] / [[Entities/Ruka]].
 3. Research kayaking, packrafting, remote island stays, cabins, trail huts, and camping options that fit the rental-car window.
 4. Understand lodging styles and which areas require early booking.
 5. Capture current travel guidance, maps, ferry pages, lodging pages, festival details, and reference material as source notes.
@@ -39,11 +42,16 @@ tags:
 ## First Source-Backed Route Candidates
 
 - [[Entities/Archipelago Trail]]: compact ferry-linked coastal route module; likely strongest first operational follow-up if the coast/archipelago theme is appealing.
-- Saimaa / Savo-Karelia: major Lakeland route family with nature, food, castles, and towns.
+- [[Entities/Saimaa]] / Savo-Karelia: major Lakeland route family with nature, food, castles, towns, scenic roads, and paddling candidates; now the strongest shared trunk after the Lonely Planet cross-check.
 - West Coast: coastal route family from Pori toward Oulu with beaches, wooden towns, and Kvarken/Hailuoto context.
 - South Coast design and ironworks: shorter cultural route module near Helsinki/Turku.
 - North Lapland: distinctive but currently likely unrealistic unless it becomes a top priority.
-- Ruka / Kuusamo: fixed as the mid-trip northern anchor because of [[Entities/Solstice Festival]]; route planning should decide whether to approach through Saimaa/eastern Finland, the West Coast/Oulu corridor, or another staged route.
+- [[Entities/Kainuu]] / Hossa / Kajaani: source-pack corridor that may connect Saimaa/eastern Finland to [[Entities/Ruka]] without turning the approach into pure transit.
+- [[Entities/Hossa National Park]] / [[Entities/Oulanka National Park]]: current official/provider source pack now makes Hossa the best-supported pre-festival activity/lodging candidate and Oulanka a Ruka-adjacent day/recovery/specific-activity module.
+- [[Entities/Koli National Park]] / [[Entities/Kuhmo]] / Kainuu: guidebook-supported eastern branch with scenic, wildlife, and culture value, but higher drive-stage proof burden.
+- [[Entities/Linnansaari National Park]] / [[Entities/Kolovesi National Park]]: Saimaa park candidates that can make the lake trunk more concrete if paddling, islands, or seal-context nature stays in scope.
+- [[Entities/Oulu]] / West Coast: credible comparison corridor, especially if coast/Hailuoto/city culture become important.
+- Ruka / Kuusamo: fixed as the mid-trip northern anchor because of [[Entities/Solstice Festival]]; route planning should decide whether to approach through Saimaa/eastern Finland/Kainuu, the West Coast/Oulu corridor, or another staged route.
 
 ## Current Working Assumptions
 
@@ -56,6 +64,9 @@ tags:
 - Camping gear is expected to be borrowed from a local friend, so camping is in scope but still depends on gear availability, weather, destination rules, and comfort.
 - Kayaking, packrafting, and remote island stays are promising trip themes, but they need current provider, access, weather, safety, gear, and lodging checks. [[Sources/Packrafting - Luontoon]] specifically points toward sheltered lakes and rivers, near-shore paddling, and destination-rule checks rather than exposed open-water ambitions.
 - Solstice operations add practical constraints: Ruka local movement is mostly foot/ski-lift/taxi/e-bike, the festival site is uneven fell terrain, there is no festival camping on site, and late-night return from the festival site requires walking after the lifts close.
+- The eastern source pack supports further research into [[Entities/Saimaa]], [[Entities/Kainuu]], [[Entities/Hossa National Park]], [[Entities/Oulanka National Park]], [[Entities/Koli National Park]], [[Entities/Linnansaari National Park]], and [[Entities/Kolovesi National Park]]. The Hossa/Oulanka official pass now strengthens Eastern B, but the route still depends on drive times, Hossa availability, destination rules, and checkout constraints.
+- [[Queries/Route Relevant National Parks]] now defines the active national-park page set for this route stage, with official Luontoon destination-rule ingest still pending.
+- [[Sources/Lonely Planet Finland 11th Edition]] supports the same broad eastern logic and adds all-route comparison context, but guidebook prices, schedules, providers, and operating details still need current verification.
 
 ## Core Pages
 

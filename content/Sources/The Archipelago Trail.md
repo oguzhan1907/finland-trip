@@ -2,7 +2,7 @@
 title: The Archipelago Trail
 type: source
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources:
   - "raw/The Archipelago Trail.md"
 tags:
@@ -80,6 +80,7 @@ The route is especially relevant because it creates a distinctive Finland segmen
 
 - [[Entities/Finland]]
 - [[Entities/Archipelago Trail]]
+- [[Entities/Archipelago National Park]]
 
 ## Open Questions
 

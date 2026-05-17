@@ -72,6 +72,13 @@ Before this ingest, [[Entities/Solstice Festival]] was fixed but geographically 
 - [[Entities/Ruka]]
 - [[Entities/Finland]]
 
+## Related Concepts
+
+- [[Concepts/Roadtrip Route Design]]
+- [[Concepts/Travel Pace]]
+- [[Concepts/Contingency Planning]]
+- [[Concepts/Outdoor Accommodation In Finland]]
+
 ## Related Pages
 
 - [[Trip Overview]]

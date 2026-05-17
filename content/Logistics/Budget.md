@@ -1,8 +1,8 @@
 ---
 title: "Budget"
 type: query
-created: 2026-05-16
-updated: 2026-05-16
+created: 2026-05-17
+updated: 2026-05-17
 sources: []
 tags:
   - finland-roadtrip
